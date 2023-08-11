@@ -1,0 +1,9 @@
+sentence,logit,prediction,sentiment_score
+Shares in the spin-off of South African e-commerce group Naspers surged more than 25% in the first minutes of their market debut in Amsterdam on Wednesday.,[0.94383955 0.02170665 0.03445379],positive,0.9221329
+"Bob van Dijk, CEO of Naspers and Prosus Group poses at Amsterdam's stock exchange, as Prosus begins trading on the Euronext stock exchange in Amsterdam, Netherlands, September 11, 2019.",[0.02797206 0.02126861 0.95075935],neutral,0.006703457
+"REUTERS/Piroschka van de Wouw
+Prosus comprises Naspersâ€™ global empire of consumer internet assets, with the jewel in the crown a 31% stake in Chinese tech titan Tencent.",[0.12530978 0.00802152 0.86666876],neutral,0.11728826
+"There is ""way more demand than is even available, so thatâ€™s good,"" said the CEO of Euronext Amsterdam, Maurice van Tilburg.",[0.91084707 0.01203189 0.077121  ],positive,0.89881516
+"""Itâ€™s going to be an interesting hour of trade after opening this morning.""",[0.7627132  0.01857283 0.218714  ],positive,0.7441404
+"Euronext had given an indicative price of 58.70 euros per share for Prosus, implying a market value of 95.3 billion euros ($105 billion).",[0.08340572 0.01424632 0.9023479 ],neutral,0.0691594
+The shares jumped to 76 euros on opening and were trading at 75 euros at 0719 GMT.,[0.2359869  0.01728195 0.7467311 ],neutral,0.21870495
